@@ -40,6 +40,5 @@ pip install -r dev-requirements.txt
 
 Run all the tests
 ```bash
-pip install -e .  # Install the package in editable mode
 pytest # Runs all the test in the tests directory
 ```
